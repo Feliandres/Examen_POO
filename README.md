@@ -1,6 +1,10 @@
 # Examen_POO
 Examen Primer Bimestre Programación Orientada a Objetos
 
+### MANUAL DE USUARIO
+
+Es una aplicacion en POO que sirve como cajero automatico donde se registran 3 usuarios para ver su cuenta cuanto saldo tienen, retirar dinero y depositar dinero
+
 ejecucion main-1
 ![image](https://user-images.githubusercontent.com/85601974/178286615-829e4648-5166-4f7e-8cd2-a884eaddd30b.png)
 ejecucion main-2
